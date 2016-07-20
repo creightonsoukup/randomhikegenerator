@@ -1,0 +1,21 @@
+body {
+  background-image: url("background.jpg");
+  background-color: #cccccc;
+  font-family: 'Lato', sans-serif;
+  background-position: center;
+}
+
+h1 {
+  font-size: 4em;
+  display: flex;
+  justify-content: center;
+
+}
+
+div > h1 {
+  font-size: 2.5em;
+}
+
+button {
+  text-align: : center;
+}
